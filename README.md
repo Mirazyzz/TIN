@@ -1,2 +1,2 @@
 # TIN
-University tasks
+University tasks for practicing HTML, CSS & JavaScript
