@@ -1,0 +1,10 @@
+.flex-container {
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: start; /* align vertical */
+}
+
+#headImage {
+  flex-basis: 400px;
+  min-width: 500px;
+}
